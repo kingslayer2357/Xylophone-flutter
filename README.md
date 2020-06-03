@@ -2,8 +2,6 @@
 
 # Xylophone 🎹
 
-## Our Goal
-
 
 ## Description
 
